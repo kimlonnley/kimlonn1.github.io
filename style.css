@@ -1,0 +1,5 @@
+#welcome {
+  height: 400px;
+  background-image: url("assets/ship-at-sea.jpg");
+  background-size: cover;
+}
